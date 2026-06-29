@@ -38,7 +38,6 @@ I love crafting responsive interfaces, managing server-side operations, and perf
 ---
 
 ### 📊 GitHub Analytics & Insights
-*Ganti kata `[USERNAME_KAMU]` di bawah ini dengan username GitHub-mu agar statistiknya otomatis ter-generate secara real-time.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=galangrambu03&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
