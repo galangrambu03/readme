@@ -1,8 +1,8 @@
-# Hi there! I'm [Nama Kamu] 👋 
+# Hi there! I'm Galang Rambu Anarki 👋 
 
 <p align="left">
-  <a href="https://linkedin.com/in/[username-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:[email-kamu@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/galang-rambu-anarki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:[galangciko86@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 I am a **Full-Stack Web Developer** and **Machine Learning & Data Science Enthusiast**. I am highly passionate about bridging the gap between robust, scalable web architectures and intelligent, data-driven software solutions. 
@@ -41,8 +41,8 @@ I love crafting responsive interfaces, managing server-side operations, and perf
 *Ganti kata `[USERNAME_KAMU]` di bawah ini dengan username GitHub-mu agar statistiknya otomatis ter-generate secara real-time.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_KAMU]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=galangrambu03&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangrambu03&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
