@@ -45,7 +45,7 @@ I love crafting responsive interfaces, managing server-side operations, and perf
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_KAMU]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galangrambu03&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
